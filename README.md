@@ -111,7 +111,7 @@ controle-gastos-frontend/
 ## Testes manuais realizados
 
 Antes da entrega, os seguintes cenários foram testados manualmente via `curl`
-direto na API (mais de 20 casos no total):
+direto na API (mais de 15 casos no total):
 
 1. Listar pessoas com a lista vazia
 2. Criar pessoa adulta e pessoa menor de idade
